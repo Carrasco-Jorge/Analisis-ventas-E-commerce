@@ -9,11 +9,11 @@
 3. [Propuesta de solución](#propuesta-de-solución)
 4. [Implementación de solución en Excel](#implementación-de-solución-en-excel)
 5. [Resultado final](#resultado-final)
-6. [Conclusiones](#conclusiones)
+6. [Origen de los datos](#origen-de-los-datos)
 
 ## Descripción del problema
 
-En este proyecto se aborda un problema de una empresa de E-commerce de la India, la cual tiene un [conjunto de datos](#referencias) de los pedidos realizados en el periodo **2018/04 — 2019/03** y los objetivos de ingresos (*revenue*) por mes. Con esta información se quiere:
+En este proyecto se aborda un problema de una empresa de E-commerce de la India, la cual tiene un [conjunto de datos](#origen-de-los-datos) de los pedidos realizados en el periodo **2018/04 — 2019/03** y los objetivos de ingresos (*revenue*) por mes. Con esta información se quiere:
 
 - Detectar cuáles son las **categorías de productos** que generan **más ingresos** y tienen mayor **rendimiento económico**
 - **Comparar** el desempeño financiero por **región geográfica**
@@ -213,11 +213,7 @@ Ya para finalizar el procesamiento de los datos, se crearon las siguientes métr
 
 ![Reporte 3-2](./img/Ingresos%20y%20Margen%20bruto%20por%20Estado.png)
 
-## Conclusiones
-
-
-
-## Referencias
+## Origen de los datos
 
 *Origen de los datos: https://www.kaggle.com/datasets/benroshan/ecommerce-data/data?select=Sales+target.csv*
 
