@@ -8,7 +8,8 @@
 2. [Puntos clave del problema](#puntos-clave-del-problema)
 3. [Propuesta de solución](#propuesta-de-solución)
 4. [Implementación de solución en Excel](#implementación-de-solución-en-excel)
-5. [Conclusiones](#conclusiones)
+5. [Resultado final](#resultado-final)
+6. [Conclusiones](#conclusiones)
 
 ## Descripción del problema
 
